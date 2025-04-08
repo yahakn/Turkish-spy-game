@@ -1,16 +1,30 @@
-# app_casus
+A fun social deduction game where players try to guess who the spy is.
 
-A new Flutter project.
+Features:
 
-## Getting Started
+Customizable player count (2-16)
+Adjustable spy count
+Multiple word categories (fruits, animals, countries)
+Timer with visual alerts
+Card-based role distribution
+How to Play:
 
-This project is a starting point for a Flutter application.
+Set player count, spy count, and game duration
+Pass the device around for players to see their secret word
+Discuss and try to find the spy before time runs out!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Oyuncuların casusu bulmaya çalıştığı eğlenceli bir sosyal dedüksiyon oyunu.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Özellikler:
+
+Ayarlanabilir oyuncu sayısı (2-16)
+Değiştirilebilir casus sayısı
+Çoklu kelime kategorileri (meyveler, hayvanlar, ülkeler)
+Görsel uyarılı zamanlayıcı
+Kart dağıtım sistemi
+Nasıl Oynanır:
+
+Oyuncu sayısını, casus sayısını ve süreyi ayarlayın
+Cihazı oyunculara vererek kelimelerini görmelerini sağlayın
+Tartışın ve zaman dolmadan casusu bulun!
